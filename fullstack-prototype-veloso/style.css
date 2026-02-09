@@ -1,0 +1,31 @@
+.site-header{
+    background-color: black;
+}
+
+.navigation{
+    color: white;
+    margin-left: 15px;
+    text-align: right;
+}
+
+.head-name{
+    color: white;
+    font-size: medium;
+    transform: translateY(20px);
+}
+
+.Note-container{
+    background-color: cyan;
+    width: px;
+    height: 100px;
+    border-radius: 15px;
+}
+.butt{
+    transform: translateX(10px);
+    transform: translateZ(12px);
+    
+}
+.paragraph{
+    transform: translatey(30px);
+}
+
